@@ -1,0 +1,51 @@
+[
+{
+    "isim":"ali",
+    "yas":"30",
+    "kurs":"borazan"
+
+},
+{
+    "isim":"mehmet",
+    "yas":"30",
+    "kurs":"saz"
+
+},
+{
+    "isim":"yavuz",
+    "yas":"27",
+    "kurs":"saz"
+
+},
+{
+    "isim":"mucteba",
+    "yas":"35",
+    "kurs":"gitar"
+
+},
+{
+    "isim":"Alay",
+    "yas":"20",
+    "kurs":"keman"
+
+},
+{
+    "isim":"Nursena",
+    "yas":"25",
+    "kurs":"keman"
+
+},
+
+{
+    "isim":"Nursel",
+    "yas":"25",
+    "kurs":"cengi"
+
+},
+{
+    "isim":"kemal",
+    "yas":"25",
+    "kurs":"calgı"
+
+}
+]
